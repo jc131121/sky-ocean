@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jc131121.github.io/sky-ocean/sitemap.xml
